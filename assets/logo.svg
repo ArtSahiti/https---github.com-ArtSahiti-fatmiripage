@@ -1,0 +1,27 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 101 50" role="img" aria-label="Sahiti Carrelage Sàrl">
+  <polygon fill="#00AEEF" points="0,0 10,0 0,10"/>
+  <polygon fill="#0088CF" points="10,0 10,10 0,10"/>
+  <polygon fill="#C75AA3" points="10,0 20,0 20,10"/>
+  <polygon fill="#A54A87" points="10,0 10,10 20,10"/>
+  <polygon fill="#E8CEDA" points="20,0 30,0 30,10"/>
+  <polygon fill="#B9D3EC" points="20,0 20,10 30,10"/>
+  <polygon fill="#0057A8" points="40,0 40,10 30,10"/>
+  <polygon fill="#B9D3EC" points="60,0 60,10 50,10"/>
+  <polygon fill="#C75AA3" points="0,10 0,20 10,20"/>
+  <polygon fill="#9D99CB" points="0,10 10,10 10,20"/>
+  <polygon fill="#E8CEDA" points="10,10 20,10 10,20"/>
+  <polygon fill="#826DA0" points="20,10 20,20 10,20"/>
+  <polygon fill="#E8CEDA" points="20,10 30,10 20,20"/>
+  <polygon fill="#E8CEDA" points="68.4,11.1 68.4,21.1 58.4,21.1"/>
+  <polygon fill="#E8CEDA" points="78.4,11.1 88.4,11.1 78.4,21.1"/>
+  <polygon fill="#F2E7DA" points="78.4,21.1 88.4,21.1 88.4,31.1"/>
+  <polygon fill="#E6E7E8" points="0,20 10,20 10,30"/>
+  <polygon fill="#0088CF" points="0,20 0,30 10,30"/>
+  <polygon fill="#00AEEF" points="10,20 20,20 10,30"/>
+  <polygon fill="#B9D3EC" points="20,20 20,30 10,30"/>
+  <polygon fill="#826DA0" points="0,30 10,30 10,40"/>
+  <polygon fill="#9D99CB" points="0,30 0,40 10,40"/>
+  <polygon fill="#E8CEDA" points="40.3,30.3 50.3,30.3 40.3,40.3"/>
+  <polygon fill="#00AEEF" points="0,40 10,40 0,50"/>
+  <text x="18.7" y="36.8" font-family="Arial, Helvetica, sans-serif" font-weight="700" font-size="6.6" textLength="80.7" lengthAdjust="spacingAndGlyphs" fill="#231F20">SAHITI CARRELAGE SÀRL</text>
+</svg>
